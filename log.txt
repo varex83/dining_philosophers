@@ -1,0 +1,6301 @@
+Philosopher 1 is thinking for 66 ms!
+Philosopher 3 is thinking for 955 ms!
+Philosopher 0 is thinking for 202 ms!
+Philosopher 2 is thinking for 914 ms!
+Philosopher 4 is thinking for 119 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 490 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 974 ms!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 937 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 828 ms!
+Philosopher 3 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 208 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 132 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 319 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 491 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 854 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 427 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 778 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 479 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 41 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 505 ms!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 777 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 976 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 457 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 381 ms!
+Philosopher 3 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 710 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 757 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 760 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 747 ms!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 341 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 617 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 299 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 796 ms!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 96 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 770 ms!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 814 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 751 ms!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 12 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 567 ms!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 101 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 37 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 90 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 579 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 52 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 148 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 565 ms!
+Philosopher 2 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 22 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 350 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 729 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 409 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 719 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 852 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 750 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 1 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 90 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 177 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 793 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 405 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 815 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 67 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 72 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 873 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 717 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 738 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 173 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 194 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 308 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 165 ms!
+Fork 2 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 407 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 594 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 368 ms!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 275 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 319 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 795 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 400 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Fork 3 is taken!
+Philosopher 2 is thinking for 12 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 224 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 585 ms!
+Fork 2 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 832 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 200 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 235 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 594 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 370 ms!
+Philosopher 3 is hungry!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 177 ms!
+Fork 1 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 624 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 290 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 52 ms!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 565 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 197 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 635 ms!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 859 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 875 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 8 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 306 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 425 ms!
+Philosopher 3 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 175 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 700 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 271 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 463 ms!
+Philosopher 2 is hungry!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 149 ms!
+Fork 4 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 62 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 120 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 645 ms!
+Philosopher 1 is hungry!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 482 ms!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 256 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 102 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 730 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 37 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 74 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 347 ms!
+Philosopher 3 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 891 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 722 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 912 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 911 ms!
+Fork 4 is taken!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 613 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 803 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 536 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 642 ms!
+Philosopher 1 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 115 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 650 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 421 ms!
+Philosopher 0 is hungry!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 50 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 324 ms!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Fork 2 is taken!
+Philosopher 1 is thinking for 661 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 380 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 985 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 341 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 620 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 442 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 594 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 36 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 305 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 633 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 251 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 309 ms!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 780 ms!
+Fork 1 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 103 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 681 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 937 ms!
+Philosopher 2 is hungry!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 407 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 679 ms!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 725 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 1 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 654 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 222 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 540 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 89 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 419 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 594 ms!
+Philosopher 1 is hungry!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 634 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 552 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 610 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 876 ms!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 567 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 437 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 2 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 80 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 495 ms!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 202 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 982 ms!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 340 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 449 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 290 ms!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 948 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 610 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 31 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 927 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 127 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 766 ms!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 395 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 812 ms!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 201 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 392 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 579 ms!
+Philosopher 3 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 637 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 473 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 917 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 888 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 660 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 75 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 973 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 122 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 347 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 101 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 408 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 842 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 95 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 554 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 537 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 501 ms!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 147 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 848 ms!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 5 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 269 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 69 ms!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 797 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 399 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 330 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 182 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 119 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 33 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 781 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 980 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 849 ms!
+Philosopher 0 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 3 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 50 ms!
+Fork 0 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 102 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 959 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 978 ms!
+Philosopher 4 is hungry!
+Philosopher 2 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 359 ms!
+Fork 4 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 214 ms!
+Philosopher 1 is thinking for 792 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 874 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 850 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 812 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 353 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 457 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 663 ms!
+Fork 2 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 876 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 543 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 918 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 171 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 786 ms!
+Philosopher 1 is hungry!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 716 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 623 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 155 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 78 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 317 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 831 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 731 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 996 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 972 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 303 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 275 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 592 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 854 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 137 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 104 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 671 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 981 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 170 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 636 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 497 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 539 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 39 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 173 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 644 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 685 ms!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 146 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 700 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 321 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 769 ms!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 745 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 882 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 282 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 270 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 515 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 97 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 344 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 910 ms!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 251 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 821 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 596 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 785 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 564 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 225 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 672 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 16 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 181 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 298 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 996 ms!
+Philosopher 3 is thinking for 608 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 541 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 212 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 581 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 367 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 779 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 166 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 511 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 18 ms!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 769 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 200 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 615 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 596 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 196 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 352 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 227 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 596 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 659 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 320 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 843 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 530 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 798 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 762 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 580 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 537 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 180 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 585 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 887 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 189 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 614 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 155 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 47 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 614 ms!
+Philosopher 2 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 443 ms!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 647 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 370 ms!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 588 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 443 ms!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 875 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 568 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 480 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 960 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 414 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 42 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 62 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 932 ms!
+Philosopher 2 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 221 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 757 ms!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 391 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 433 ms!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 577 ms!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 226 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 714 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 46 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 433 ms!
+Philosopher 0 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 439 ms!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 648 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 753 ms!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 982 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 196 ms!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 801 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 531 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 234 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 337 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 800 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 973 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 668 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 592 ms!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 819 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 206 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 871 ms!
+Fork 4 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 995 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 873 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 820 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 3 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 746 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 188 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 969 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 316 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 510 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 815 ms!
+Fork 2 is taken!
+Philosopher 4 is hungry!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 341 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 396 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 878 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 771 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 833 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 640 ms!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 771 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 372 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 37 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 539 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 363 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 484 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 684 ms!
+Fork 1 is taken!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 542 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 812 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 469 ms!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 491 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 531 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 527 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 635 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 336 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 500 ms!
+Fork 4 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 948 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 963 ms!
+Fork 1 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 432 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 263 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 730 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 191 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 404 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 172 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 811 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 80 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 605 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 41 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 407 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 268 ms!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 152 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 366 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 271 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 756 ms!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 432 ms!
+Fork 1 is taken!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 70 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 849 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 76 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 18 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 316 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 755 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 4 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 424 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 560 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 133 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 213 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 683 ms!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 545 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 955 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 529 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 270 ms!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 922 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 808 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 397 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 849 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 213 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 942 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 569 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 676 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 60 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 472 ms!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 368 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 370 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 783 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 881 ms!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 578 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 927 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 181 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 356 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 961 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 412 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 994 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 836 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 502 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 217 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 800 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 488 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 974 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 799 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 783 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 650 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 216 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 572 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 524 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 644 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Fork 1 is taken!
+Philosopher 0 is thinking for 480 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 781 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 39 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 245 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 962 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 590 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 95 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 658 ms!
+Philosopher 2 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 660 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 285 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 67 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 82 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 799 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 858 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 120 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 719 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 91 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 831 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 635 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 354 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 649 ms!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 450 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 319 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 138 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 70 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 409 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 697 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 264 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 187 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 107 ms!
+Fork 0 is taken!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 951 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 929 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 640 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 43 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 14 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 100 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 140 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 587 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 173 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 685 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 249 ms!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 930 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 158 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 284 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 3 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 453 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 65 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 239 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 661 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 422 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 1 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 125 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 177 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 202 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 37 ms!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 900 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 397 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 403 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 513 ms!
+Philosopher 2 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 963 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 247 ms!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 359 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 653 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 692 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 895 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 474 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 568 ms!
+Fork 1 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 197 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 503 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 184 ms!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 843 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 902 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 393 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 195 ms!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 303 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 375 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 762 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 780 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 543 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 860 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 758 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 570 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 999 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 953 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 185 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 844 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 275 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 634 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 865 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 640 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 188 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 95 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 62 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 618 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 293 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 812 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 378 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 747 ms!
+Philosopher 4 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 134 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 466 ms!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 613 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 220 ms!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 127 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 634 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 963 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 668 ms!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 2 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 808 ms!
+Fork 4 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 23 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 674 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 771 ms!
+Philosopher 1 is hungry!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 575 ms!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 761 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 131 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 383 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 133 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 764 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 847 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 956 ms!
+Philosopher 2 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 68 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 671 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 219 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 244 ms!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 558 ms!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 705 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 409 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 213 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 926 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 280 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 665 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 191 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 232 ms!
+Philosopher 3 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 595 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 747 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 867 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 391 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 512 ms!
+Philosopher 2 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 354 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 366 ms!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 70 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 160 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 3 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 119 ms!
+Fork 0 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 611 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 111 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 891 ms!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 512 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 564 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 442 ms!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 785 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 696 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 798 ms!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 367 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 588 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 770 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 224 ms!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 209 ms!
+Philosopher 2 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 39 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 705 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 822 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 897 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 383 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 118 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 470 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 398 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 804 ms!
+Fork 1 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 101 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 849 ms!
+Philosopher 2 is hungry!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 155 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 557 ms!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 727 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 735 ms!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 683 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 674 ms!
+Fork 4 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 836 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 517 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 325 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 903 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 921 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 316 ms!
+Philosopher 2 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 73 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 703 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 998 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 200 ms!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 980 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 203 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 899 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 716 ms!
+Philosopher 3 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 867 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 370 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 884 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 126 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 761 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 992 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 347 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 556 ms!
+Fork 4 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 759 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 481 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 176 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 376 ms!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 540 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 612 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 440 ms!
+Fork 2 is taken!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 620 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 557 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 702 ms!
+Fork 4 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 497 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 209 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 220 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 195 ms!
+Philosopher 2 is thinking for 440 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 751 ms!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 779 ms!
+Fork 4 is taken!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 519 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 393 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 998 ms!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 699 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 585 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 487 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 364 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 920 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 411 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 2 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 462 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 267 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 627 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 4 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 183 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 306 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 613 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 971 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 430 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 459 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 265 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 800 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 219 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 434 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 534 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 216 ms!
+Philosopher 3 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 240 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 370 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 955 ms!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 398 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 8 ms!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 790 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 95 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 358 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 612 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 425 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 356 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 997 ms!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 273 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 722 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 548 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 353 ms!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 355 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 3 is eating for 266 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 833 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 864 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 945 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 717 ms!
+Philosopher 3 is hungry!
+Philosopher 1 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 945 ms!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 614 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 324 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 398 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 640 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 3 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 939 ms!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 873 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 123 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 64 ms!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 690 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 641 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 77 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 813 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 169 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 257 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 740 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 291 ms!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 908 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 135 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 12 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 250 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 149 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 65 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 60 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 225 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 360 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 807 ms!
+Philosopher 2 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 415 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 650 ms!
+Fork 2 is taken!
+Philosopher 4 is hungry!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 834 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 217 ms!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 704 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 565 ms!
+Fork 1 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 380 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 49 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 978 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 484 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 306 ms!
+Philosopher 3 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 671 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 183 ms!
+Fork 3 is taken!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 469 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 325 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 426 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 178 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 239 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 38 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 9 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 873 ms!
+Philosopher 2 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 3 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 665 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 748 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 384 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 339 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 69 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 864 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 929 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 858 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 850 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 255 ms!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 426 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 985 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 607 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 981 ms!
+Philosopher 0 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 871 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 115 ms!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 476 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 909 ms!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 188 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 683 ms!
+Philosopher 3 is hungry!
+Philosopher 1 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 410 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 165 ms!
+Philosopher 4 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 702 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 880 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 226 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 886 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 806 ms!
+Fork 2 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 384 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 821 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 814 ms!
+Philosopher 4 is hungry!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 641 ms!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 121 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 855 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 852 ms!
+Philosopher 3 is hungry!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 552 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 529 ms!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 318 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 45 ms!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 484 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 733 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 312 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 695 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 465 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 634 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 516 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 199 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 835 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Fork 3 is taken!
+Philosopher 2 is thinking for 933 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 935 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 311 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 65 ms!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 421 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 482 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Fork 0 is taken!
+Philosopher 4 is thinking for 761 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 141 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 76 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 443 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 400 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 228 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 482 ms!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 824 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 936 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 62 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 372 ms!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 554 ms!
+Fork 3 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 131 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 837 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 477 ms!
+Philosopher 0 is hungry!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 632 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 3 is eating for 692 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 22 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 251 ms!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 362 ms!
+Fork 1 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 758 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 920 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 737 ms!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 687 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 483 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 827 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 12 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 896 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 597 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 538 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 697 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 651 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 244 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 3 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 632 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 127 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 241 ms!
+Philosopher 3 is eating for 578 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 922 ms!
+Fork 2 is taken!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 214 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 990 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 648 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 352 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 475 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 266 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 325 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 448 ms!
+Philosopher 2 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 516 ms!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 872 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 925 ms!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 590 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 727 ms!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 660 ms!
+Fork 3 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 181 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 942 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 698 ms!
+Philosopher 0 is hungry!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 812 ms!
+Fork 2 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 400 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 229 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 863 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 630 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 735 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 1 is hungry!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 23 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 224 ms!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 884 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 36 ms!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 236 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 4 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 793 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 438 ms!
+Philosopher 4 is hungry!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 929 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 394 ms!
+Philosopher 2 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 521 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 875 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 46 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 509 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 800 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 185 ms!
+Fork 3 is taken!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 314 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 949 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 585 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 977 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 11 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 89 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 929 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 142 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 62 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 211 ms!
+Philosopher 4 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 804 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 725 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 5 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 243 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 54 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 264 ms!
+Philosopher 4 is hungry!
+Philosopher 2 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 141 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 132 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 628 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 933 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 835 ms!
+Philosopher 3 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 337 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 156 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 435 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 466 ms!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 809 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 421 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 524 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 597 ms!
+Fork 2 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 651 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 439 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 565 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 335 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 263 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 992 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 671 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 278 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 877 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 841 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 18 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 813 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 762 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 290 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 696 ms!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 431 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 918 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 249 ms!
+Fork 3 is taken!
+Philosopher 0 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 958 ms!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 662 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 653 ms!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 344 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 65 ms!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 464 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 168 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 657 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 797 ms!
+Philosopher 3 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 538 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 375 ms!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 571 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 749 ms!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 146 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 578 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Fork 4 is taken!
+Philosopher 3 is thinking for 108 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 368 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 776 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 34 ms!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 144 ms!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 561 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 369 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 470 ms!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 213 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 59 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 421 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 869 ms!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 10 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 295 ms!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 553 ms!
+Fork 3 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 435 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 516 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 724 ms!
+Philosopher 2 is hungry!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 608 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 255 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 857 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 59 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 869 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 222 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 501 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 651 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 457 ms!
+Philosopher 0 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 212 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 239 ms!
+Fork 0 is taken!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 17 ms!
+Philosopher 2 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 297 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 541 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 751 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 218 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 260 ms!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 994 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 677 ms!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 873 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 562 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 341 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 565 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 106 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 524 ms!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 829 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 645 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 226 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 188 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 45 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 414 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Fork 4 is taken!
+Philosopher 3 is thinking for 282 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 766 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 379 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 288 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 2 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 815 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 938 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 707 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 887 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 272 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 14 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 684 ms!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 918 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 425 ms!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 827 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 122 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 85 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 149 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 856 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 624 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 477 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 982 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 763 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 850 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 685 ms!
+Philosopher 3 is hungry!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 559 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 670 ms!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Fork 0 is taken!
+Philosopher 4 is thinking for 782 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 754 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 606 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 985 ms!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 600 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 447 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 644 ms!
+Philosopher 1 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 332 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 819 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 120 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 358 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 0 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 775 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 145 ms!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 423 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 747 ms!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 330 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 798 ms!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 671 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 153 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 626 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 996 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 578 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 43 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 969 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 25 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 116 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 928 ms!
+Philosopher 2 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 579 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 250 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 744 ms!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 342 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 519 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 190 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 957 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 694 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 291 ms!
+Fork 0 is taken!
+Philosopher 2 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 471 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 129 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 206 ms!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 668 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 706 ms!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 114 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 873 ms!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 412 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 52 ms!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 698 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 424 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 934 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 40 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 354 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 619 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 877 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 799 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 500 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 704 ms!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 271 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 937 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 900 ms!
+Philosopher 3 is hungry!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 477 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 82 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 329 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 870 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 192 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 518 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 519 ms!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 254 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 778 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 207 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 848 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 669 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 112 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 487 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 468 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 250 ms!
+Philosopher 4 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 624 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 451 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 742 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 947 ms!
+Philosopher 2 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 377 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 698 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 390 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 14 ms!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 641 ms!
+Philosopher 4 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 822 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 234 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 773 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 767 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 434 ms!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 278 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 975 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 337 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 59 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 612 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 457 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 401 ms!
+Fork 1 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 244 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 298 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 420 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 2 is hungry!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 119 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 139 ms!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 591 ms!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 844 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 239 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 301 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 700 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 28 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 786 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 25 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 573 ms!
+Philosopher 0 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 355 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 395 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 779 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 760 ms!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 331 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 684 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 858 ms!
+Philosopher 3 is hungry!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 737 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 876 ms!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 852 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 808 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 876 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 276 ms!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 457 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 904 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 723 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 185 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 987 ms!
+Philosopher 3 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 283 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 652 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 952 ms!
+Philosopher 2 is hungry!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 106 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 707 ms!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 623 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 615 ms!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 949 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 240 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 832 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 851 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 576 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 715 ms!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 109 ms!
+Fork 4 is taken!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 496 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 45 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 987 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 419 ms!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 835 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 357 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 147 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 134 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 458 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 255 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 726 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 565 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 440 ms!
+Philosopher 0 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 838 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 608 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 403 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 991 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 111 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 201 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 406 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 341 ms!
+Philosopher 4 is hungry!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 815 ms!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 282 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 540 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 186 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 751 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 677 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 110 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 455 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 318 ms!
+Fork 3 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 44 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 273 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 409 ms!
+Philosopher 0 is hungry!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 962 ms!
+Fork 2 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 324 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 562 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 127 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 228 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 615 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 137 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 542 ms!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 544 ms!
+Fork 3 is taken!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 411 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 161 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 606 ms!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 455 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 455 ms!
+Philosopher 4 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 533 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 104 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 878 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 871 ms!
+Philosopher 3 is hungry!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 120 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 773 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 384 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 52 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 758 ms!
+Philosopher 2 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 983 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 833 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 915 ms!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 864 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 924 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 436 ms!
+Fork 3 is taken!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 741 ms!
+Philosopher 2 is hungry!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 37 ms!
+Fork 2 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 989 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 414 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 643 ms!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 107 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 79 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 42 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 342 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 651 ms!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 396 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 288 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 922 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 748 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 689 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 204 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 439 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 346 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 649 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 601 ms!
+Fork 1 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 743 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 590 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 631 ms!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 997 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 975 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 351 ms!
+Fork 0 is taken!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 790 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 401 ms!
+Fork 4 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 479 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 938 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 309 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 684 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 223 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 357 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 476 ms!
+Philosopher 2 is hungry!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 105 ms!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 602 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 271 ms!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 703 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 362 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 453 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 150 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 843 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 712 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 651 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 922 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 391 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 665 ms!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 257 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 579 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 491 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 577 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 145 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 163 ms!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 154 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 801 ms!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 169 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 935 ms!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 193 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 909 ms!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 5 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 128 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 405 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 433 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 944 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 326 ms!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 784 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 848 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 582 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 492 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 546 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 431 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 103 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 936 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 576 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 975 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 309 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 756 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 868 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 495 ms!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 415 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 788 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 171 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 19 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 945 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 856 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 285 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 52 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 289 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 917 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 436 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 74 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 698 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 673 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 335 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 681 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 842 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 450 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 338 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 337 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 645 ms!
+Philosopher 2 is thinking for 705 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 391 ms!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 49 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 516 ms!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 479 ms!
+Fork 4 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 102 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 207 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 387 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 43 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 834 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 642 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 751 ms!
+Philosopher 3 is hungry!
+Philosopher 0 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 296 ms!
+Fork 0 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 645 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 672 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 260 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 298 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 340 ms!
+Philosopher 4 is hungry!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 271 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 29 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 894 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 48 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 850 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 781 ms!
+Philosopher 3 is hungry!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 868 ms!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 20 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 510 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 169 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 457 ms!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 488 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 493 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 61 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 725 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 156 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 210 ms!
+Philosopher 2 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 610 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 355 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 199 ms!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 162 ms!
+Philosopher 4 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 998 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 391 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 215 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 935 ms!
+Philosopher 2 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Fork 2 is taken!
+Philosopher 1 is thinking for 760 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 925 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 211 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 501 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 512 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 968 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 846 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 510 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 754 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 905 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 540 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 993 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 65 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 520 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 580 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 80 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 136 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 735 ms!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 981 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 857 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 520 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 522 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 82 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 428 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Fork 0 is taken!
+Philosopher 4 is thinking for 681 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 804 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 524 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 422 ms!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 888 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 210 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 241 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 265 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 977 ms!
+Philosopher 0 is thinking for 754 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 804 ms!
+Philosopher 2 is hungry!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 7 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 29 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 266 ms!
+Fork 4 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 163 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 144 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 205 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 495 ms!
+Fork 3 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 310 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 890 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 664 ms!
+Philosopher 0 is hungry!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 483 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 351 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 791 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 199 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 745 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 970 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 624 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 73 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 603 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 13 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 724 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 534 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 178 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 421 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 618 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 600 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 710 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 908 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 518 ms!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 971 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 419 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 753 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 128 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 627 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 952 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 246 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 577 ms!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 500 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 262 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 486 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 264 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 555 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 602 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 410 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 533 ms!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 575 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 189 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 780 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 33 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 683 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 648 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 413 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 877 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 798 ms!
+Philosopher 3 is hungry!
+Philosopher 1 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 518 ms!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 604 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 910 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 182 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 169 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 412 ms!
+Philosopher 4 is hungry!
+Philosopher 2 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 409 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 636 ms!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 739 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 894 ms!
+Philosopher 3 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 872 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 385 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 841 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 456 ms!
+Philosopher 2 is thinking for 991 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 947 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 299 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 325 ms!
+Philosopher 0 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 489 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 843 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 489 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 9 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 325 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 168 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 570 ms!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 242 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 374 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 627 ms!
+Philosopher 3 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 315 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 966 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 938 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 716 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 312 ms!
+Fork 4 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 969 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 418 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 385 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 897 ms!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 155 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 59 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 690 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 622 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 143 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 880 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 316 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 94 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 499 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 330 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 0 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 541 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 380 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 66 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 168 ms!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 494 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 235 ms!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 808 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 871 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 24 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 764 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Fork 0 is taken!
+Philosopher 4 is thinking for 543 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 541 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 645 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 119 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 244 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 99 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 58 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 146 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 266 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 470 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 104 ms!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 455 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 279 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 549 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 665 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 2 is hungry!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 127 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 946 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 285 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 982 ms!
+Philosopher 1 is hungry!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 583 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 316 ms!
+Fork 1 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 972 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 793 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 902 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 411 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 939 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 928 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 111 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 302 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 897 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 526 ms!
+Philosopher 0 is hungry!
+Philosopher 3 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 207 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 975 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 337 ms!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 808 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 442 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 184 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 786 ms!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 218 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 824 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 756 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 430 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 181 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 692 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 962 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 892 ms!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 45 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 988 ms!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 60 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 164 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 45 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 146 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 8 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 493 ms!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 831 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 786 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 487 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 647 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 889 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 698 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 886 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 525 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 372 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 770 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 852 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 529 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 807 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 263 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 973 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 288 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 476 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 827 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 2 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 729 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 854 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 173 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 853 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 530 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 908 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 282 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 559 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 494 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 74 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 246 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 560 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 294 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 830 ms!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 542 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 969 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Fork 4 is taken!
+Philosopher 3 is thinking for 748 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 577 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 188 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 41 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 918 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 52 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 381 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 417 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 0 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 839 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 605 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 685 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 945 ms!
+Fork 1 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 103 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 572 ms!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 66 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 457 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 696 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 212 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 669 ms!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 224 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 211 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 367 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 285 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 688 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 705 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 743 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 282 ms!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 870 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 378 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 65 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 336 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 349 ms!
+Philosopher 1 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 289 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 366 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 391 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 231 ms!
+Fork 2 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 532 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 252 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 985 ms!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 602 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 267 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 16 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 628 ms!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 365 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 116 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 176 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 873 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 165 ms!
+Philosopher 1 is eating for 95 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 124 ms!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 211 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 416 ms!
+Philosopher 0 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 449 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 739 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 353 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 591 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 234 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 465 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 132 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 521 ms!
+Philosopher 3 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 725 ms!
+Philosopher 0 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 993 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 874 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 53 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 454 ms!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 760 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 135 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 18 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 133 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 230 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 681 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 972 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 540 ms!
+Philosopher 3 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 674 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 263 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 542 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 0 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 134 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 350 ms!
+Philosopher 2 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 139 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 437 ms!
+Fork 2 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 678 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 386 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 2 is thinking for 378 ms!
+Philosopher 0 is thinking for 609 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 17 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 986 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 902 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 0 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 950 ms!
+Fork 0 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 792 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 116 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 743 ms!
+Philosopher 3 is hungry!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 282 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 657 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 683 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 187 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 245 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 103 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 432 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 540 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 848 ms!
+Philosopher 1 is hungry!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 728 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 898 ms!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 467 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 86 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 533 ms!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 730 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 141 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 321 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 759 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 348 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 327 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 244 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 635 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 122 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 376 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 44 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 338 ms!
+Philosopher 0 is hungry!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 575 ms!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 374 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 434 ms!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 444 ms!
+Fork 4 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 400 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 497 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 698 ms!
+Philosopher 1 is hungry!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 530 ms!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 850 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 428 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 676 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 518 ms!
+Fork 2 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 988 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 454 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 910 ms!
+Philosopher 1 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 331 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 322 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 330 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 559 ms!
+Philosopher 4 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 929 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 962 ms!
+Philosopher 2 is hungry!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 609 ms!
+Fork 4 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 961 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 0 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 894 ms!
+Fork 2 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 476 ms!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 221 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 942 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 519 ms!
+Philosopher 4 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 140 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 120 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 538 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 199 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 719 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 320 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 185 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 957 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Philosopher 0 is hungry!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 4 is put!
+Fork 0 is put!
+Fork 0 is taken!
+Philosopher 4 is thinking for 687 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 502 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 364 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 537 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 798 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 568 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 35 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 980 ms!
+Philosopher 1 is hungry!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 968 ms!
+Fork 1 is taken!
+Fork 0 is taken!
+Philosopher 4 is eating for 123 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 332 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 861 ms!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 676 ms!
+Fork 4 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 141 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 31 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 272 ms!
+Philosopher 2 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 299 ms!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 429 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 298 ms!
+Philosopher 3 is hungry!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 408 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 337 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 732 ms!
+Fork 3 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 596 ms!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 713 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 507 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 378 ms!
+Fork 1 is taken!
+Philosopher 0 is eating for 794 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 366 ms!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 426 ms!
+Philosopher 4 is hungry!
+Fork 4 is taken!
+Philosopher 1 is hungry!
+Philosopher 3 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 321 ms!
+Fork 3 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 631 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 818 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 469 ms!
+Philosopher 2 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 267 ms!
+Fork 4 is taken!
+Philosopher 3 is eating for 648 ms!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Philosopher 4 is hungry!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 577 ms!
+Fork 2 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 551 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 541 ms!
+Fork 3 is taken!
+Philosopher 2 is eating for 923 ms!
+Fork 4 is taken!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 860 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 363 ms!
+Philosopher 1 is hungry!
+Fork 1 is taken!
+Philosopher 3 is hungry!
+Fork 4 is put!
+Fork 0 is put!
+Philosopher 4 is thinking for 472 ms!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 307 ms!
+Fork 3 is taken!
+Fork 4 is taken!
+Philosopher 3 is eating for 243 ms!
+Fork 2 is taken!
+Philosopher 1 is eating for 106 ms!
+Fork 1 is put!
+Fork 2 is put!
+Philosopher 1 is thinking for 384 ms!
+Philosopher 4 is hungry!
+Philosopher 0 is hungry!
+Fork 0 is taken!
+Fork 1 is taken!
+Philosopher 0 is eating for 949 ms!
+Fork 3 is put!
+Fork 4 is put!
+Philosopher 3 is thinking for 979 ms!
+Fork 4 is taken!
+Philosopher 2 is hungry!
+Fork 2 is taken!
+Fork 3 is taken!
+Philosopher 2 is eating for 782 ms!
+Philosopher 1 is hungry!
+Fork 2 is put!
+Fork 3 is put!
+Philosopher 2 is thinking for 736 ms!
+Fork 0 is put!
+Fork 1 is put!
+Philosopher 0 is thinking for 279 ms!
+Fork 0 is taken!
+Philosopher 4 is eating for 842 ms!
+Fork 1 is taken!
+Fork 2 is taken!
+Philosopher 1 is eating for 976 ms!
+Philosopher 3 is hungry!
+Fork 3 is taken!
+Philosopher 0 is hungry!
+Philosopher 2 is hungry!
+Philosopher 0		 ate 89220 ms		waited 138829 ms		thought 91211 ms
+Philosopher 1		 ate 90846 ms		waited 142474 ms		thought 86618 ms
+Philosopher 2		 ate 88301 ms		waited 138648 ms		thought 92689 ms
+Philosopher 3		 ate 91398 ms		waited 140199 ms		thought 87408 ms
+Philosopher 4		 ate 93512 ms		waited 137987 ms		thought 88309 ms
